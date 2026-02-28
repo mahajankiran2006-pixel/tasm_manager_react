@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Task Manager
 
 This is a full-stack task manager application built using the MERN stack (MongoDB, Express.js, React, Node.js). It allows users to manage tasks efficiently with features like user authentication, task assignment, and real-time updates.
@@ -74,3 +75,6 @@ Contributions are welcome! Feel free to submit a pull request or open an issue f
 ## License
 
 This project is licensed under the MIT License.
+=======
+# tasm_manager_react
+>>>>>>> fbbc21d441a08f7fe900dd7775728ff1789587fe
